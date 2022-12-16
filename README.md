@@ -1,6 +1,6 @@
 # Dracula for [harpy for Twitter](https://play.google.com/store/apps/details?id=com.robertodoering.harpy.free)
 
-> A dark theme for[harpy for Twitter](https://play.google.com/store/apps/details?id=com.robertodoering.harpy.free).
+> A dark theme for [harpy for Twitter](https://play.google.com/store/apps/details?id=com.robertodoering.harpy.free).
 
 ![Screenshot](./screenshot.png)
 
