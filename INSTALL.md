@@ -1,17 +1,12 @@
-### [Foobar](https://foobar.com)
+### [harpy for Twitter](https://play.google.com/store/apps/details?id=com.robertodoering.harpy.free)
 
-#### Install using Git
+#### Install
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-    git clone https://github.com/dracula/foobar.git
-
-#### Install manually
-
-Download using the [GitHub .zip download](https://github.com/dracula/foobar/archive/master.zip) option and unzip them.
+Dracula Theme is _already present_ in _harpy for Twitter_. So, you don't need to install anything!
 
 #### Activating theme
 
-1. Do this
-2. Then that
-3. Boom! It's working
+1. Navigate to your settings
+2. Navigate to the theme 
+3. Choose Dracula.
+4. Boom, Dracula theme 🧛🏻‍♂️!
